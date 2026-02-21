@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import { Mail, Lock, Loader2, AlertCircle } from 'lucide-react';
 
-const BACKEND_URL = "auddit-buddy-backend-production.up.railway.app"; // FIXED: Changed from 3001 to 3000
+const BACKEND_URL = "https://audditbuddyfullcode.onrender.com"; // FIXED: Changed from 3001 to 3000
 
 export default function Login() {
   const navigate = useNavigate();
