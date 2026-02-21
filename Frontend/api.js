@@ -1,5 +1,5 @@
 
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://audditbuddyfullcode.onrender.com';
 
 export const apiRequest = async (endpoint, options = {}) => {
   const token = localStorage.getItem('token');
