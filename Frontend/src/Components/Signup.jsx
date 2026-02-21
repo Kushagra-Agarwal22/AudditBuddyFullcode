@@ -3,7 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { Lock } from "lucide-react";
 import { FcGoogle } from "react-icons/fc";
 
-const API_URL = 'auddit-buddy-backend-production.up.railway.app';
+const API_URL = 'https://audditbuddyfullcode.onrender.com';
 
 export default function Signup() {
   const [email, setEmail] = useState('');
