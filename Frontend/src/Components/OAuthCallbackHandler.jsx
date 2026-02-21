@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { Loader2, AlertCircle } from 'lucide-react';
 
-const BACKEND_URL = 'auddit-buddy-backend-production.up.railway.app';
+const BACKEND_URL = 'https://audditbuddyfullcode.onrender.com';
 
 export default function OAuthCallbackHandler() {
   const navigate = useNavigate();
