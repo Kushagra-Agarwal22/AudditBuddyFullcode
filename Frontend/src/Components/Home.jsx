@@ -12,8 +12,8 @@ import {
 } from "recharts";
 
 // Backend URLs
-const PYTHON_BACKEND_URL = "auddit-buddy-backend-production.up.railway.app";
-const NODE_BACKEND_URL = "auddit-buddy-backend-production.up.railway.app";
+const PYTHON_BACKEND_URL = "https://audditbuddyfullcode.onrender.com";
+const NODE_BACKEND_URL = "https://audditbuddyfullcode.onrender.com";
 
 // Initial expense categories
 const INITIAL_EXPENSES = [
