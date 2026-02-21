@@ -152,7 +152,7 @@ import {
 // CONFIGURATION
 // ============================================
 
-const BACKEND_URL ="auddit-buddy-backend-production.up.railway.app";
+const BACKEND_URL ="https://audditbuddyfullcode.onrender.com";
 
 const getAuthHeaders = () => {
   const token = localStorage.getItem('token');
