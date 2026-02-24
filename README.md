@@ -39,11 +39,17 @@ Ye repo full stack app ka source code hai jise tu **web pe deploy** kar sakta ha
 ## 🗂 Project Structure
 
 AudditBuddyFullcode/
+
 ├── frontend/ # React + Vite frontend
+
 ├── backend/ # Node/Express backend API + Python  
+
 ├── public/ # Static assets
+
 ├── README.md # THIS FILE
+
 ├── package.json
+
 └── .gitignore
 
 
